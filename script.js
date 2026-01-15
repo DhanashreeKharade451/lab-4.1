@@ -26,10 +26,10 @@ function formatFullName(firstName, lastName) {
   return `${formattedLastName}, ${formattedFirstName}`;
 }
 
-console.log(formatFullName("john", "doe"));
+console.log(formatFullName("dhana", "kharade"));
     
-formatFullName("", "doe"); 
-
+formatFullName("", "Kharade"); 
+formatFullName("Dhanashree", ""); 
 
 
 
