@@ -31,7 +31,9 @@ console.log(formatFullName("dhana", "kharade"));
 formatFullName("", "Kharade"); 
 formatFullName("Dhanashree", ""); 
 
-
+// //output:Kharade, Dhana
+// script.js:15 Invalid name input
+// script.js:15 Invalid name input
 
 
 
@@ -89,8 +91,8 @@ checkEligibility(15,true);
 checkEligibility(16,false);
 
 
-//  //output: Doe, John
-// script.js:15 Invalid name input
+// 
+// 
 // script.js:61 2400
 // script.js:81 Person is not eligible for the program.
 // script.js:81 Person is not eligible for the program.
